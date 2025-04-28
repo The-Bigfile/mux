@@ -8,8 +8,8 @@ import (
 	"net"
 	"time"
 
-	muxv1 "go.sia.tech/mux/v1"
-	muxv2 "go.sia.tech/mux/v2"
+	muxv1 "go.thebigfile.com/mux/v1"
+	muxv2 "go.thebigfile.com/mux/v2"
 )
 
 // A Mux multiplexes multiple duplex Streams onto a single net.Conn.
