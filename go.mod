@@ -1,4 +1,4 @@
-module go.sia.tech/mux
+module go.thebigfile.com/mux //v2.0.0
 
 go 1.23
 

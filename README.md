@@ -1,6 +1,6 @@
 # [![Sia Core](https://sia.tech/banners/sia-banner-mux.png)](http://sia.tech)
 
-[![GoDoc](https://godoc.org/go.sia.tech/mux?status.svg)](https://godoc.org/go.sia.tech/mux)
+[![GoDoc](https://godoc.org/go.thebigfile.com/mux?status.svg)](https://godoc.org/go.thebigfile.com/mux)
 
 # mux
 
