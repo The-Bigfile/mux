@@ -1,4 +1,4 @@
-module go.thebigfile.com/mux //v0.0.3
+module go.thebigfile.com/mux //v0.0.4
 
 go 1.23.1
 
